@@ -2,7 +2,7 @@
 <native xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-native">
 <banner>
 <motd>
-<banner>Welkom! Dit toestel is geconfigureerd via NETCONF automatisering.</banner>
+<banner>Welkom TEST! Dit toestel is geconfigureerd via NETCONF automatisering.</banner>
 </motd>
 </banner>
 <hostname>MyAutoRouter</hostname>
